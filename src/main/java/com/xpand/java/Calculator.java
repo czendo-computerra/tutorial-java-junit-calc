@@ -1,5 +1,7 @@
 package com.xpand.java;
 
+//changed by cmoment lol
+
 public class Calculator
 {
 // Square function
